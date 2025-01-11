@@ -1,4 +1,5 @@
 Template-Login-MongoDB
+~NOTA: En mongoDB no admite el prisma migrate por lo que siempre tendran que iniciar de nuevo la db para agregar cambios a los schemas~
 
 MongoDB-MongoAtlas-PrismaORM-Express
 
